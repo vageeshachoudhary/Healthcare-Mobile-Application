@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HealthCareApplication</string>
+    <string name="signup_key">Don\'t have an account? Sign Up here</string>
+    <string name="welcome_key">WELCOME TO HEALTHCARE APPLICATION</string>
+    <string name="login_key">LOGIN HERE TO CONTINUE</string>
+    <string name="username_key">Enter Username</string>
+    <string name="password_key">Enter Password</string>
+    <string name="btnlogin_key">Login</string>
+    <string name="register_key">REGISTRATION PAGE</string>
+    <string name="email_key">Enter Email-Id</string>
+    <string name="confirmPassword_key">Confirm your Password</string>
+    <string name="btnRegister_key">Sign Up</string>
+    <string name="loginAgain_key">Already have an account? Login here.</string>
+    <string name="lab_test">TESTS</string>
+    <string name="find_doctor">DOCTORS</string>
+    <string name="book_appointment">BOOK APPOINTMENT</string>
+    <string name="reschedule_appointment">RESCHEDULE APPOINTMENT</string>
+    <string name="logout_key">LOGOUT</string>
+    <string name="homepage_title">What are you looking for?</string>
+    <string name="buy_medicine">PHARMACY</string>
+    <string name="find_doctors_nearby_key">FIND DOCTORS NEARBY...</string>
+    <string name="dentists_key">DENTISTS</string>
+    <string name="ent_key">ENT</string>
+    <string name="physician_key">PHYSICIANS</string>
+    <string name="surgeons_key">SURGEONS</string>
+    <string name="back_key">BACK</string>
+    <string name="book_app_key">BOOK YOUR APPOINTMENT NOW!!</string>
+    <string name="name">Enter First and Last Name</string>
+    <string name="address">Full Address</string>
+    <string name="contact">Contact Number</string>
+    <string name="fees">Fees</string>
+    <string name="booknow">Confirm Appointment</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="date">06/05/2022</string>
+    <string name="time">10:00</string>
+
+</resources>
